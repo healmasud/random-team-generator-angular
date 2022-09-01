@@ -6,7 +6,7 @@ This random team generator build with angular and TypeScript, which allows to ge
 
 Live netlify demo of the application can be found here: https://random-team-generator-angular.netlify.app/
 
-## Screenshort
+## Screenshot
 
 ![Pic](https://raw.githubusercontent.com/healmasud/random-team-generator-angular/master/github-overview/app.png)
 
